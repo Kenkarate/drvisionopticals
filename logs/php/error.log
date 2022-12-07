@@ -1,0 +1,66 @@
+[06-Dec-2022 19:16:50 UTC] PHP Fatal error:  Uncaught ArgumentCountError: 3 arguments are required, 2 given in C:\Users\ajesh\Local Sites\drvisionopticals\app\public\wp-admin\includes\class-bulk-upgrader-skin.php:156
+Stack trace:
+#0 C:\Users\ajesh\Local Sites\drvisionopticals\app\public\wp-admin\includes\class-bulk-upgrader-skin.php(156): sprintf('%1$s installed ...', 'Elementor Websi...')
+#1 C:\Users\ajesh\Local Sites\drvisionopticals\app\public\wp-content\themes\own-shop\inc\class-tgm-plugin-activation.php(3553): Bulk_Upgrader_Skin->after('Elementor Websi...')
+#2 C:\Users\ajesh\Local Sites\drvisionopticals\app\public\wp-admin\includes\class-wp-upgrader.php(825): TGMPA_Bulk_Installer_Skin->after()
+#3 C:\Users\ajesh\Local Sites\drvisionopticals\app\public\wp-content\themes\own-shop\inc\class-tgm-plugin-activation.php(3173): WP_Upgrader->run(Array)
+#4 C:\Users\ajesh\Local Sites\drvisionopticals\app\public\wp-content\themes\own-shop\inc\class-tgm-plugin-activation.php(3286): TGMPA_Bulk_Installer->run(Array)
+#5 C:\Users\ajesh\Local Sites\drvisionopticals\app\public\wp-content\themes\own-shop\inc\class-tgm-plugin-activation.php(2892): TGMPA_Bulk_Installer->bulk_install(Array)
+#6 C:\Users\ajesh\Local Sites\drvisionopticals\app\public\wp-content\themes\own-shop\inc\class-tgm-plugin-activation.php(658): TGMPA_List_Table->process_bulk_actions()
+#7 C:\Users\ajesh\Local Sites\drvisionopticals\app\public\wp-includes\class-wp-hook.php(308): TGM_Plugin_Activation->install_plugins_page('')
+#8 C:\Users\ajesh\Local Sites\drvisionopticals\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#9 C:\Users\ajesh\Local Sites\drvisionopticals\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#10 C:\Users\ajesh\Local Sites\drvisionopticals\app\public\wp-admin\admin.php(259): do_action('appearance_page...')
+#11 C:\Users\ajesh\Local Sites\drvisionopticals\app\public\wp-admin\themes.php(10): require_once('C:\\Users\\ajesh\\...')
+#12 {main}
+  thrown in C:\Users\ajesh\Local Sites\drvisionopticals\app\public\wp-admin\includes\class-bulk-upgrader-skin.php on line 156
+[06-Dec-2022 19:31:29 UTC] PHP Warning:  Undefined array key 278 in C:\Users\ajesh\Local Sites\drvisionopticals\app\public\wp-includes\nav-menu-template.php on line 211
+[06-Dec-2022 19:31:29 UTC] PHP Stack trace:
+[06-Dec-2022 19:31:29 UTC] PHP   1. {main}() C:\Users\ajesh\Local Sites\drvisionopticals\app\public\index.php:0
+[06-Dec-2022 19:31:29 UTC] PHP   2. require() C:\Users\ajesh\Local Sites\drvisionopticals\app\public\index.php:17
+[06-Dec-2022 19:31:29 UTC] PHP   3. require_once() C:\Users\ajesh\Local Sites\drvisionopticals\app\public\wp-blog-header.php:19
+[06-Dec-2022 19:31:29 UTC] PHP   4. include() C:\Users\ajesh\Local Sites\drvisionopticals\app\public\wp-includes\template-loader.php:106
+[06-Dec-2022 19:31:29 UTC] PHP   5. get_header($name = *uninitialized*, $args = *uninitialized*) C:\Users\ajesh\Local Sites\drvisionopticals\app\public\wp-content\themes\own-shop\page.php:15
+[06-Dec-2022 19:31:29 UTC] PHP   6. locate_template($template_names = [0 => 'header.php'], $load = TRUE, $require_once = TRUE, $args = []) C:\Users\ajesh\Local Sites\drvisionopticals\app\public\wp-includes\general-template.php:48
+[06-Dec-2022 19:31:29 UTC] PHP   7. load_template($_template_file = 'C:\\Users\\ajesh\\Local Sites\\drvisionopticals\\app\\public/wp-content/themes/own-shop/header.php', $require_once = TRUE, $args = []) C:\Users\ajesh\Local Sites\drvisionopticals\app\public\wp-includes\template.php:718
+[06-Dec-2022 19:31:29 UTC] PHP   8. require_once() C:\Users\ajesh\Local Sites\drvisionopticals\app\public\wp-includes\template.php:783
+[06-Dec-2022 19:31:29 UTC] PHP   9. do_action($hook_name = 'own_shop_action_header') C:\Users\ajesh\Local Sites\drvisionopticals\app\public\wp-content\themes\own-shop\header.php:49
+[06-Dec-2022 19:31:29 UTC] PHP  10. WP_Hook->do_action($args = [0 => '']) C:\Users\ajesh\Local Sites\drvisionopticals\app\public\wp-includes\plugin.php:517
+[06-Dec-2022 19:31:29 UTC] PHP  11. WP_Hook->apply_filters($value = '', $args = [0 => '']) C:\Users\ajesh\Local Sites\drvisionopticals\app\public\wp-includes\class-wp-hook.php:332
+[06-Dec-2022 19:31:29 UTC] PHP  12. own_shop_header_menu_styles('') C:\Users\ajesh\Local Sites\drvisionopticals\app\public\wp-includes\class-wp-hook.php:308
+[06-Dec-2022 19:31:29 UTC] PHP  13. get_template_part($slug = 'inc/header-menu/content', $name = 'style1', $args = *uninitialized*) C:\Users\ajesh\Local Sites\drvisionopticals\app\public\wp-content\themes\own-shop\inc\template-functions.php:13
+[06-Dec-2022 19:31:29 UTC] PHP  14. locate_template($template_names = [0 => 'inc/header-menu/content-style1.php', 1 => 'inc/header-menu/content.php'], $load = TRUE, $require_once = FALSE, $args = []) C:\Users\ajesh\Local Sites\drvisionopticals\app\public\wp-includes\general-template.php:204
+[06-Dec-2022 19:31:29 UTC] PHP  15. load_template($_template_file = 'C:\\Users\\ajesh\\Local Sites\\drvisionopticals\\app\\public/wp-content/themes/own-shop/inc/header-menu/content-style1.php', $require_once = FALSE, $args = []) C:\Users\ajesh\Local Sites\drvisionopticals\app\public\wp-includes\template.php:718
+[06-Dec-2022 19:31:29 UTC] PHP  16. require() C:\Users\ajesh\Local Sites\drvisionopticals\app\public\wp-includes\template.php:785
+[06-Dec-2022 19:31:29 UTC] PHP  17. wp_nav_menu($args = ['theme_location' => 'primary', 'depth' => 3, 'container' => 'ul', 'container_class' => 'navigation', 'container_id' => 'menu-primary', 'menu_class' => 'navigation']) C:\Users\ajesh\Local Sites\drvisionopticals\app\public\wp-content\themes\own-shop\inc\header-menu\content-style1.php:104
+[06-Dec-2022 19:31:29 UTC] PHP Warning:  Undefined array key 278 in C:\Users\ajesh\Local Sites\drvisionopticals\app\public\wp-includes\nav-menu-template.php on line 211
+[06-Dec-2022 19:31:29 UTC] PHP Stack trace:
+[06-Dec-2022 19:31:29 UTC] PHP   1. {main}() C:\Users\ajesh\Local Sites\drvisionopticals\app\public\index.php:0
+[06-Dec-2022 19:31:29 UTC] PHP   2. require() C:\Users\ajesh\Local Sites\drvisionopticals\app\public\index.php:17
+[06-Dec-2022 19:31:29 UTC] PHP   3. require_once() C:\Users\ajesh\Local Sites\drvisionopticals\app\public\wp-blog-header.php:19
+[06-Dec-2022 19:31:29 UTC] PHP   4. include() C:\Users\ajesh\Local Sites\drvisionopticals\app\public\wp-includes\template-loader.php:106
+[06-Dec-2022 19:31:29 UTC] PHP   5. get_header($name = *uninitialized*, $args = *uninitialized*) C:\Users\ajesh\Local Sites\drvisionopticals\app\public\wp-content\themes\own-shop\page.php:15
+[06-Dec-2022 19:31:29 UTC] PHP   6. locate_template($template_names = [0 => 'header.php'], $load = TRUE, $require_once = TRUE, $args = []) C:\Users\ajesh\Local Sites\drvisionopticals\app\public\wp-includes\general-template.php:48
+[06-Dec-2022 19:31:29 UTC] PHP   7. load_template($_template_file = 'C:\\Users\\ajesh\\Local Sites\\drvisionopticals\\app\\public/wp-content/themes/own-shop/header.php', $require_once = TRUE, $args = []) C:\Users\ajesh\Local Sites\drvisionopticals\app\public\wp-includes\template.php:718
+[06-Dec-2022 19:31:29 UTC] PHP   8. require_once() C:\Users\ajesh\Local Sites\drvisionopticals\app\public\wp-includes\template.php:783
+[06-Dec-2022 19:31:29 UTC] PHP   9. do_action($hook_name = 'own_shop_action_header') C:\Users\ajesh\Local Sites\drvisionopticals\app\public\wp-content\themes\own-shop\header.php:49
+[06-Dec-2022 19:31:29 UTC] PHP  10. WP_Hook->do_action($args = [0 => '']) C:\Users\ajesh\Local Sites\drvisionopticals\app\public\wp-includes\plugin.php:517
+[06-Dec-2022 19:31:29 UTC] PHP  11. WP_Hook->apply_filters($value = '', $args = [0 => '']) C:\Users\ajesh\Local Sites\drvisionopticals\app\public\wp-includes\class-wp-hook.php:332
+[06-Dec-2022 19:31:29 UTC] PHP  12. own_shop_header_menu_styles('') C:\Users\ajesh\Local Sites\drvisionopticals\app\public\wp-includes\class-wp-hook.php:308
+[06-Dec-2022 19:31:29 UTC] PHP  13. get_template_part($slug = 'inc/header-menu/content', $name = 'style1', $args = *uninitialized*) C:\Users\ajesh\Local Sites\drvisionopticals\app\public\wp-content\themes\own-shop\inc\template-functions.php:13
+[06-Dec-2022 19:31:29 UTC] PHP  14. locate_template($template_names = [0 => 'inc/header-menu/content-style1.php', 1 => 'inc/header-menu/content.php'], $load = TRUE, $require_once = FALSE, $args = []) C:\Users\ajesh\Local Sites\drvisionopticals\app\public\wp-includes\general-template.php:204
+[06-Dec-2022 19:31:29 UTC] PHP  15. load_template($_template_file = 'C:\\Users\\ajesh\\Local Sites\\drvisionopticals\\app\\public/wp-content/themes/own-shop/inc/header-menu/content-style1.php', $require_once = FALSE, $args = []) C:\Users\ajesh\Local Sites\drvisionopticals\app\public\wp-includes\template.php:718
+[06-Dec-2022 19:31:29 UTC] PHP  16. require() C:\Users\ajesh\Local Sites\drvisionopticals\app\public\wp-includes\template.php:785
+[06-Dec-2022 19:31:29 UTC] PHP  17. wp_nav_menu($args = ['theme_location' => 'primary', 'depth' => 3, 'container' => 'ul', 'container_class' => 'navigation', 'container_id' => 'menu-primary-mobile', 'menu_class' => 'navigation']) C:\Users\ajesh\Local Sites\drvisionopticals\app\public\wp-content\themes\own-shop\inc\header-menu\content-style1.php:175
+[06-Dec-2022 19:35:25 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[06-Dec-2022 19:35:25 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[06-Dec-2022 19:35:25 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[06-Dec-2022 19:35:25 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[06-Dec-2022 19:35:25 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[06-Dec-2022 19:35:25 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[06-Dec-2022 19:36:44 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[06-Dec-2022 19:36:44 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[06-Dec-2022 19:36:44 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[06-Dec-2022 19:36:44 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[06-Dec-2022 19:36:44 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[06-Dec-2022 19:36:44 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.

@@ -1,0 +1,1325 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2022-01-24 13:57+0530\n"
+"PO-Revision-Date: 2022-01-24 13:57+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: ;__;_e;esc_html;esc_html__;esc_attr;esc_attr__;"
+"esc_attr_e;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:24 404.php:40 404.php:50
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:25 404.php:41 404.php:51
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"on right or a search?"
+msgstr ""
+
+#: comments.php:35
+msgid "user-image"
+msgstr ""
+
+#: comments.php:36
+msgid "says:"
+msgstr ""
+
+#: comments.php:44
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: comments.php:48
+msgid "Edit"
+msgstr ""
+
+#: comments.php:52
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: comments.php:88 comments.php:112
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:91 comments.php:115
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:92 comments.php:116
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:129
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:134
+msgid "Comment"
+msgstr ""
+
+#: comments.php:139
+msgid "Leave a Comment"
+msgstr ""
+
+#: comments.php:140
+msgid "Post Comment"
+msgstr ""
+
+#: functions.php:45
+msgid ""
+"You need to update your PHP version to a minimum of 5.6 to run Own Shop "
+"Theme."
+msgstr ""
+
+#: functions.php:46
+msgid "Actual version is:"
+msgstr ""
+
+#: functions.php:46
+msgid "required is"
+msgstr ""
+
+#: functions.php:96
+msgid "Primary"
+msgstr ""
+
+#: functions.php:97 inc/customizer/options/section-header.php:27
+#: inc/theme-info.php:270
+msgid "Top Bar"
+msgstr ""
+
+#: functions.php:98 inc/customizer/options/section-header.php:98
+msgid "Category Menu"
+msgstr ""
+
+#: functions.php:99
+msgid "Footer Social Menu"
+msgstr ""
+
+#: functions.php:195
+msgid "Blog Sidebar"
+msgstr ""
+
+#: functions.php:197 functions.php:208 functions.php:220
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:206
+msgid "WooCommerce Sidebar"
+msgstr ""
+
+#: functions.php:218
+msgid "Page Sidebar"
+msgstr ""
+
+#: functions.php:232
+msgid "Footer Column"
+msgstr ""
+
+#: functions.php:317
+msgid "Add to Cart"
+msgstr ""
+
+#: functions.php:318
+msgid "Quick View"
+msgstr ""
+
+#: functions.php:319
+msgid "Add to Wishlist"
+msgstr ""
+
+#: functions.php:338
+msgid "Search here"
+msgstr ""
+
+#: functions.php:340 inc/customizer/options/section-header.php:354
+#: inc/woocommerce-functions.php:178 inc/woocommerce-functions.php:228
+msgid "Search"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:330
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:332
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:386
+#: inc/class-tgm-plugin-activation.php:827
+#: inc/class-tgm-plugin-activation.php:2533
+#: inc/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:387
+#: inc/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:388
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:390
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:392
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:394
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:934
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:934
+#: inc/class-tgm-plugin-activation.php:937
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:937
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1982
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2603
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2608
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2614
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3498
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3501
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3503
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3507
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3509
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3509
+#: inc/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3509
+#: inc/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3512
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3515
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3517
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3520
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/customizer/customizer.php:58
+msgid "Display Site Title and Tagline"
+msgstr ""
+
+#: inc/customizer/data-sanitization.php:100
+msgid "1350px"
+msgstr ""
+
+#: inc/customizer/data-sanitization.php:101
+#: inc/customizer/options/section-layout.php:58
+msgid "1170px"
+msgstr ""
+
+#: inc/customizer/options/section-blog.php:17
+msgid "Blog Settings"
+msgstr ""
+
+#: inc/customizer/options/section-blog.php:27
+msgid "Posts"
+msgstr ""
+
+#: inc/customizer/options/section-blog.php:43
+#: inc/customizer/options/section-blog.php:252
+msgid "Sidebar"
+msgstr ""
+
+#: inc/customizer/options/section-blog.php:65
+#: inc/customizer/options/section-blog.php:274
+#: inc/customizer/options/section-page.php:133
+#: inc/customizer/options/section-shop.php:57
+#: inc/customizer/options/section-shop.php:111
+#: inc/customizer/options/section-shop.php:166
+msgid "Sidebar Layout"
+msgstr ""
+
+#: inc/customizer/options/section-blog.php:82
+msgid "Single Post"
+msgstr ""
+
+#: inc/customizer/options/section-blog.php:98
+msgid "Post Category"
+msgstr ""
+
+#: inc/customizer/options/section-blog.php:118
+msgid "Show Category"
+msgstr ""
+
+#: inc/customizer/options/section-blog.php:136
+msgid "Post Tags"
+msgstr ""
+
+#: inc/customizer/options/section-blog.php:156
+msgid "Show Tags"
+msgstr ""
+
+#: inc/customizer/options/section-blog.php:174
+msgid "Post Meta"
+msgstr ""
+
+#: inc/customizer/options/section-blog.php:194
+msgid "Show Date"
+msgstr ""
+
+#: inc/customizer/options/section-blog.php:214
+msgid "Show Author"
+msgstr ""
+
+#: inc/customizer/options/section-blog.php:234
+msgid "Show Comments"
+msgstr ""
+
+#: inc/customizer/options/section-color.php:17
+#: inc/customizer/options/section-color.php:32 inc/theme-info.php:305
+msgid "Color Settings"
+msgstr ""
+
+#: inc/customizer/options/section-color.php:54
+msgid "Primary Color"
+msgstr ""
+
+#: inc/customizer/options/section-color.php:76
+msgid "Secondary Color"
+msgstr ""
+
+#: inc/customizer/options/section-footer.php:17
+#: inc/customizer/options/section-footer.php:32
+msgid "Footer Settings"
+msgstr ""
+
+#: inc/customizer/options/section-footer.php:54
+msgid "Footer Copyright Text"
+msgstr ""
+
+#: inc/customizer/options/section-footer.php:55
+msgid "Copyright text to be displayed in the footer. No HTML allowed."
+msgstr ""
+
+#: inc/customizer/options/section-header.php:17
+msgid "Header Settings"
+msgstr ""
+
+#: inc/customizer/options/section-header.php:43
+msgid "Top Bar Settings"
+msgstr ""
+
+#: inc/customizer/options/section-header.php:63
+msgid "Show Topbar"
+msgstr ""
+
+#: inc/customizer/options/section-header.php:81
+msgid ""
+"To show top bar links, Go to Appearance -> Menus and create a new menu and "
+"add links to it and select Top Bar as display location to make it a top bar "
+"menu"
+msgstr ""
+
+#: inc/customizer/options/section-header.php:114
+msgid "Category Menu Settings"
+msgstr ""
+
+#: inc/customizer/options/section-header.php:134
+msgid "Show Category Menu"
+msgstr ""
+
+#: inc/customizer/options/section-header.php:152
+#: inc/customizer/options/section-header.php:176
+msgid "Category Menu Heading"
+msgstr ""
+
+#: inc/customizer/options/section-header.php:165
+#: inc/woocommerce-functions.php:247
+msgid "All Departments"
+msgstr ""
+
+#: inc/customizer/options/section-header.php:192
+msgid ""
+"To show the menu, Please first create a new menu ( Appearance -> Menus ) and "
+"then set its display location to \"Category Menu\". You can create a menu up "
+"to 3 nested levels."
+msgstr ""
+
+#: inc/customizer/options/section-header.php:207
+msgid "Product Search"
+msgstr ""
+
+#: inc/customizer/options/section-header.php:223
+msgid "Product Search Settings"
+msgstr ""
+
+#: inc/customizer/options/section-header.php:243
+msgid "Show Product Search"
+msgstr ""
+
+#: inc/customizer/options/section-header.php:261
+msgid "Search placeholder Settings"
+msgstr ""
+
+#: inc/customizer/options/section-header.php:274
+#: inc/woocommerce-functions.php:176 inc/woocommerce-functions.php:224
+msgid "Search for products"
+msgstr ""
+
+#: inc/customizer/options/section-header.php:285
+#: inc/customizer/options/section-header.php:325
+msgid "Placeholder Text"
+msgstr ""
+
+#: inc/customizer/options/section-header.php:301
+msgid "Category placeholder Settings"
+msgstr ""
+
+#: inc/customizer/options/section-header.php:314
+msgid "--All Categories--"
+msgstr ""
+
+#: inc/customizer/options/section-header.php:341
+msgid "Button Settings"
+msgstr ""
+
+#: inc/customizer/options/section-header.php:365
+msgid "Button Text"
+msgstr ""
+
+#: inc/customizer/options/section-header.php:377
+msgid "Login Link"
+msgstr ""
+
+#: inc/customizer/options/section-header.php:393
+msgid "Login Link Settings"
+msgstr ""
+
+#: inc/customizer/options/section-header.php:413
+msgid "Show Link"
+msgstr ""
+
+#: inc/customizer/options/section-header.php:431
+msgid "Login Settings"
+msgstr ""
+
+#: inc/customizer/options/section-header.php:444
+#: inc/woocommerce-functions.php:131
+msgid "Sign in"
+msgstr ""
+
+#: inc/customizer/options/section-header.php:455
+msgid "Login Text"
+msgstr ""
+
+#: inc/customizer/options/section-header.php:471
+msgid "Myaccount Settings"
+msgstr ""
+
+#: inc/customizer/options/section-header.php:484
+#: inc/woocommerce-functions.php:132
+msgid "My Account"
+msgstr ""
+
+#: inc/customizer/options/section-header.php:495
+msgid "Myaccount Text"
+msgstr ""
+
+#: inc/customizer/options/section-header.php:507
+msgid "Cart"
+msgstr ""
+
+#: inc/customizer/options/section-header.php:523
+msgid "Cart Settings"
+msgstr ""
+
+#: inc/customizer/options/section-header.php:543
+msgid "Show Cart"
+msgstr ""
+
+#: inc/customizer/options/section-header.php:562
+msgid "Cart Text Settings"
+msgstr ""
+
+#: inc/customizer/options/section-header.php:575
+#: inc/woocommerce-functions.php:74
+msgid "Your Cart"
+msgstr ""
+
+#: inc/customizer/options/section-header.php:586
+msgid "Cart Text"
+msgstr ""
+
+#: inc/customizer/options/section-header.php:602
+msgid "Change Cart Style"
+msgstr ""
+
+#: inc/customizer/options/section-header.php:623
+msgid "Change Cart Style to Black"
+msgstr ""
+
+#: inc/customizer/options/section-header.php:639
+msgid "Menu"
+msgstr ""
+
+#: inc/customizer/options/section-header.php:655
+msgid "Menu Settings"
+msgstr ""
+
+#: inc/customizer/options/section-header.php:675
+msgid "Align Menu to right"
+msgstr ""
+
+#: inc/customizer/options/section-header.php:693
+msgid "Menu Spacing from Top"
+msgstr ""
+
+#: inc/customizer/options/section-header.php:716
+msgid "Spacing from Top (px)"
+msgstr ""
+
+#: inc/customizer/options/section-layout.php:17
+msgid "Layout Settings"
+msgstr ""
+
+#: inc/customizer/options/section-layout.php:32
+msgid "Content Width Settings"
+msgstr ""
+
+#: inc/customizer/options/section-layout.php:55
+msgid "Choose Content Width Option:"
+msgstr ""
+
+#: inc/customizer/options/section-layout.php:57
+msgid "1350px (default)"
+msgstr ""
+
+#: inc/customizer/options/section-layout.php:74
+msgid "You might need to refresh the page to see the changes"
+msgstr ""
+
+#: inc/customizer/options/section-layout.php:93
+msgid ""
+"NOTE: Please refer to the online documentation (\"How to Set Page Width in "
+"Elementor ?\") also after you change this setting"
+msgstr ""
+
+#: inc/customizer/options/section-misc.php:17
+msgid "Misc Settings"
+msgstr ""
+
+#: inc/customizer/options/section-misc.php:32
+msgid "Widgets Block Editor Settings"
+msgstr ""
+
+#: inc/customizer/options/section-misc.php:52
+msgid "Disable Widgets Block Editor"
+msgstr ""
+
+#: inc/customizer/options/section-page.php:17
+msgid "Pages Settings"
+msgstr ""
+
+#: inc/customizer/options/section-page.php:32
+msgid "Page Settings"
+msgstr ""
+
+#: inc/customizer/options/section-page.php:52
+msgid "Show Page Title"
+msgstr ""
+
+#: inc/customizer/options/section-page.php:72
+msgid "Show Page Title background"
+msgstr ""
+
+#: inc/customizer/options/section-page.php:91
+msgid "Sidebar Settings"
+msgstr ""
+
+#: inc/customizer/options/section-page.php:111
+msgid "Show Sidebar"
+msgstr ""
+
+#: inc/customizer/options/section-preloader.php:17
+#: inc/customizer/options/section-preloader.php:32
+msgid "Preloader Settings"
+msgstr ""
+
+#: inc/customizer/options/section-preloader.php:52
+msgid "Show Preloader"
+msgstr ""
+
+#: inc/customizer/options/section-shop.php:19
+msgid "Product Archive"
+msgstr ""
+
+#: inc/customizer/options/section-shop.php:35
+msgid "Product Archive Settings"
+msgstr ""
+
+#: inc/customizer/options/section-shop.php:73
+msgid "Cart Sidebar"
+msgstr ""
+
+#: inc/customizer/options/section-shop.php:89
+msgid "Cart Page Sidebar"
+msgstr ""
+
+#: inc/customizer/options/section-shop.php:128
+msgid "Checkout Sidebar"
+msgstr ""
+
+#: inc/customizer/options/section-shop.php:144
+msgid "Checkout Page Sidebar"
+msgstr ""
+
+#: inc/header-menu/content-style1.php:16
+msgid "Skip to content"
+msgstr ""
+
+#: inc/header-menu/content-style1.php:85
+msgid "primary"
+msgstr ""
+
+#: inc/header-menu/content-style1.php:93
+msgid "MENU"
+msgstr ""
+
+#: inc/header-menu/content-style1.php:95
+msgid "Toggle navigation"
+msgstr ""
+
+#: inc/template-functions.php:34 inc/template-functions.php:45
+msgid " | Theme by "
+msgstr ""
+
+#: inc/template-functions.php:34 inc/template-functions.php:45
+msgid "Spiracle Themes"
+msgstr ""
+
+#: inc/template-tags.php:50 inc/template-tags.php:56
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:52
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/template-tags.php:58
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/template-tags.php:65
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: inc/template-tags.php:72 template-parts/page/content-cart-page.php:36
+#: template-parts/page/content-cart-page.php:81
+#: template-parts/page/content-cart-page.php:117
+#: template-parts/page/content-checkout-page.php:36
+#: template-parts/page/content-checkout-page.php:81
+#: template-parts/page/content-checkout-page.php:117
+#: template-parts/page/content-myaccount-page.php:29
+#: template-parts/page/content-page.php:34
+#: template-parts/page/content-page.php:71
+#: template-parts/page/content-page.php:102
+#: template-parts/page/content-page.php:134
+#: template-parts/page/content-page.php:166
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: inc/theme-info.php:136
+msgid "About Own Shop Theme"
+msgstr ""
+
+#: inc/theme-info.php:136
+msgid "Own Shop Info"
+msgstr ""
+
+#: inc/theme-info.php:136
+msgid "own-shop-theme-info"
+msgstr ""
+
+#: inc/theme-info.php:136
+msgid "own_shop_theme_info"
+msgstr ""
+
+#: inc/theme-info.php:149
+msgid "Thank you for using Own Shop Free WordPress theme"
+msgstr ""
+
+#: inc/theme-info.php:151
+msgid ""
+"Own Shop is a beautiful, easy to use eCommerce solution for any business "
+"website. It is a perfect theme for creating websites based on WooCommerce. "
+"Own Shop is fully responsive theme which supports RTL language, Gutenberg "
+"compatibility and cross browser compatibility. Theme has built in customizer "
+"settings and support most the popular plugins like Elementor, Beaver "
+"Builder, Site Origin, Contact Form 7, Jetpack etc. Own shop is SEO ready and "
+"based on most popular Bootstrap framework."
+msgstr ""
+
+#: inc/theme-info.php:163
+msgid "VIEW DEMO"
+msgstr ""
+
+#: inc/theme-info.php:173
+msgid "VIEW DOCUMENTATION"
+msgstr ""
+
+#: inc/theme-info.php:183
+msgid "VIDEO TUTORIALS"
+msgstr ""
+
+#: inc/theme-info.php:193
+msgid "ASK FOR SUPPORT"
+msgstr ""
+
+#: inc/theme-info.php:204
+msgid "RATE OUR THEME"
+msgstr ""
+
+#: inc/theme-info.php:214
+msgid "VIEW CHANGELOGS"
+msgstr ""
+
+#: inc/theme-info.php:223
+msgid "Why should you Upgrade to our PRO Addon ?"
+msgstr ""
+
+#: inc/theme-info.php:228
+msgid "Feature"
+msgstr ""
+
+#: inc/theme-info.php:229
+msgid "Own Shop Free"
+msgstr ""
+
+#: inc/theme-info.php:230
+msgid "Pro Addon Plugin"
+msgstr ""
+
+#: inc/theme-info.php:235
+msgid "Favicon, Logo, Title and Tagline Customization"
+msgstr ""
+
+#: inc/theme-info.php:240
+msgid "Customizer Theme Options"
+msgstr ""
+
+#: inc/theme-info.php:245
+msgid "2 Custom Widgets"
+msgstr ""
+
+#: inc/theme-info.php:250
+msgid "WooCommerce"
+msgstr ""
+
+#: inc/theme-info.php:255
+msgid "Product Category Menu"
+msgstr ""
+
+#: inc/theme-info.php:260
+msgid "Menu Cart"
+msgstr ""
+
+#: inc/theme-info.php:265
+msgid "2 Layout Settings"
+msgstr ""
+
+#: inc/theme-info.php:275
+msgid "Preloader"
+msgstr ""
+
+#: inc/theme-info.php:280
+msgid "Responsive Design"
+msgstr ""
+
+#: inc/theme-info.php:285
+msgid "RTL Support"
+msgstr ""
+
+#: inc/theme-info.php:290
+msgid "Sidebar Options (Full, Left and Right)"
+msgstr ""
+
+#: inc/theme-info.php:295
+msgid "Gutenberg Compatible"
+msgstr ""
+
+#: inc/theme-info.php:300
+msgid "1 Click Demo Import"
+msgstr ""
+
+#: inc/theme-info.php:306
+msgid "Limited"
+msgstr ""
+
+#: inc/theme-info.php:307
+msgid "Extended"
+msgstr ""
+
+#: inc/theme-info.php:310
+msgid "Light and Dark Mode"
+msgstr ""
+
+#: inc/theme-info.php:315
+msgid "800+ Google Fonts"
+msgstr ""
+
+#: inc/theme-info.php:320
+msgid "Social Sharing Icons"
+msgstr ""
+
+#: inc/theme-info.php:325
+msgid "Author Details in Single Post"
+msgstr ""
+
+#: inc/theme-info.php:330
+msgid "Author Widget with Social Icons"
+msgstr ""
+
+#: inc/theme-info.php:336
+msgid "WooCommerce Extra Settings"
+msgstr ""
+
+#: inc/theme-info.php:341
+msgid "Products Wishlist"
+msgstr ""
+
+#: inc/theme-info.php:346
+msgid "Products Compare"
+msgstr ""
+
+#: inc/theme-info.php:351
+msgid "Sticky Header"
+msgstr ""
+
+#: inc/theme-info.php:356
+msgid "Breadcrumb Display"
+msgstr ""
+
+#: inc/theme-info.php:361
+msgid "Footer Editor"
+msgstr ""
+
+#: inc/theme-info.php:366
+msgid "Related Posts"
+msgstr ""
+
+#: inc/theme-info.php:371
+msgid "Header Slider"
+msgstr ""
+
+#: inc/theme-info.php:376
+msgid "Testimonial Slider"
+msgstr ""
+
+#: inc/theme-info.php:381
+msgid "Footer Columns Widgets"
+msgstr ""
+
+#: inc/theme-info.php:386
+msgid "4 Extra PRO Demos"
+msgstr ""
+
+#: inc/theme-info.php:391
+msgid "Priority Support"
+msgstr ""
+
+#: inc/theme-info.php:398
+msgid "Upgrade to PRO"
+msgstr ""
+
+#: inc/theme-info.php:411
+msgid " Please "
+msgstr ""
+
+#: inc/theme-info.php:411
+msgid "rate our theme"
+msgstr ""
+
+#: inc/theme-info.php:412
+msgid ""
+"★★★★★ to help us spread the word. Thank you from the Spiracle Themes team!"
+msgstr ""
+
+#: inc/widgets/blog-section-widget.php:19
+msgid "Own Shop: Blog Section Widget"
+msgstr ""
+
+#: inc/widgets/blog-section-widget.php:20
+msgid "Adds latest blog posts in Own Shop WordPress theme. "
+msgstr ""
+
+#: inc/widgets/blog-section-widget.php:66
+msgid "post-image"
+msgstr ""
+
+#: inc/widgets/blog-section-widget.php:89 template-parts/post/content.php:60
+msgid "READ MORE"
+msgstr ""
+
+#: inc/widgets/blog-section-widget.php:119
+msgid "Number of posts:"
+msgstr ""
+
+#: inc/widgets/blog-section-widget.php:123
+msgid "Choose Category"
+msgstr ""
+
+#: inc/widgets/blog-section-widget.php:124
+msgid "-- Select -- "
+msgstr ""
+
+#: inc/widgets/blog-section-widget.php:127
+msgid "Excerpt"
+msgstr ""
+
+#: inc/widgets/blog-section-widget.php:128
+msgid "Show Excerpt"
+msgstr ""
+
+#: inc/widgets/footer-social-icons-widget.php:20
+msgid "Own Shop: Footer Social Icons Widget"
+msgstr ""
+
+#: inc/widgets/footer-social-icons-widget.php:21
+msgid "Adds Social icons to footer widgets in Own Shop WordPress theme."
+msgstr ""
+
+#: inc/widgets/footer-social-icons-widget.php:72
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets/list-products-widget.php:19
+msgid "Own Shop: List Featured | New | Popular products Widget"
+msgstr ""
+
+#: inc/widgets/list-products-widget.php:20
+msgid "Adds listing of products. "
+msgstr ""
+
+#: inc/widgets/list-products-widget.php:61
+#: inc/widgets/list-products-widget.php:180
+msgid "All"
+msgstr ""
+
+#: inc/widgets/list-products-widget.php:70
+#: inc/widgets/list-products-widget.php:183
+msgid "Featured"
+msgstr ""
+
+#: inc/widgets/list-products-widget.php:79
+#: inc/widgets/list-products-widget.php:186
+msgid "New"
+msgstr ""
+
+#: inc/widgets/list-products-widget.php:88
+#: inc/widgets/list-products-widget.php:189
+msgid "Popular"
+msgstr ""
+
+#: inc/widgets/list-products-widget.php:173
+msgid "Number of Products:"
+msgstr ""
+
+#: inc/widgets/list-products-widget.php:178
+msgid "Choose Product Options"
+msgstr ""
+
+#: inc/widgets/list-products-widget.php:179
+msgid "all"
+msgstr ""
+
+#: inc/widgets/list-products-widget.php:182
+msgid "featured"
+msgstr ""
+
+#: inc/widgets/list-products-widget.php:185
+msgid "new"
+msgstr ""
+
+#: inc/widgets/list-products-widget.php:188
+msgid "popular"
+msgstr ""
+
+#: inc/widgets/list-products-widget.php:194
+msgid "Show / Hide Tabs"
+msgstr ""
+
+#: inc/widgets/list-products-widget.php:195
+msgid "enable_tabs"
+msgstr ""
+
+#: inc/widgets/list-products-widget.php:196
+msgid "Show Tabs"
+msgstr ""
+
+#: inc/woocommerce-functions.php:73
+msgid "View your shopping cart"
+msgstr ""
+
+#: inc/woocommerce-functions.php:177
+msgid "All Categories"
+msgstr ""
+
+#: inc/woocommerce-functions.php:181 inc/woocommerce-functions.php:226
+msgid "Search for:"
+msgstr ""
+
+#: inc/woocommerce-functions.php:291
+#, php-format
+msgid "<p class=\"saved-sale\">Save: %s</p>"
+msgstr ""
+
+#: inc/woocommerce-functions.php:368
+msgid "No Wishlist Item"
+msgstr ""
+
+#: inc/woocommerce-functions.php:375
+msgid " Wishlist Items"
+msgstr ""
+
+#: own-shop-pro/class-customize.php:77
+msgid "Own Shop Pro"
+msgstr ""
+
+#: own-shop-pro/class-customize.php:78
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: search.php:27 search.php:63 search.php:93
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: single.php:33 single.php:34 single.php:66 single.php:67 single.php:106
+#: single.php:107 single.php:136 single.php:137 single.php:169 single.php:170
+msgid "Previous Article"
+msgstr ""
+
+#: single.php:36 single.php:37 single.php:69 single.php:70 single.php:109
+#: single.php:110 single.php:139 single.php:140 single.php:172 single.php:173
+msgid "Next Article"
+msgstr ""
+
+#: single.php:39 single.php:72 single.php:112 single.php:142 single.php:175
+msgid "Posts navigation"
+msgstr ""
+
+#: template-parts/page/content-cart-page.php:26
+#: template-parts/page/content-cart-page.php:71
+#: template-parts/page/content-cart-page.php:107
+#: template-parts/page/content-checkout-page.php:26
+#: template-parts/page/content-checkout-page.php:71
+#: template-parts/page/content-checkout-page.php:107
+#: template-parts/page/content-myaccount-page.php:19
+#: template-parts/page/content-page.php:24
+#: template-parts/page/content-page.php:61
+#: template-parts/page/content-page.php:92
+#: template-parts/page/content-page.php:124
+#: template-parts/page/content-page.php:156
+#: template-parts/post/content-single.php:43 template-parts/post/content.php:43
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/post/content-archive.php:31
+#: template-parts/post/content-search.php:18
+#: template-parts/post/content-single.php:19
+msgid "Posted on"
+msgstr ""
+
+#: template-parts/post/content-archive.php:32
+#: template-parts/post/content-search.php:19
+#: template-parts/post/content-single.php:20
+msgid "Posted by"
+msgstr ""
+
+#: template-parts/post/content-archive.php:33
+#: template-parts/post/content-search.php:20
+#: template-parts/post/content-single.php:21
+msgid "Comments"
+msgstr ""
+
+#: template-parts/post/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/post/content-none.php:21
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/post/content-none.php:25
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/post/content-none.php:31
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/post/content.php:53
+msgid "Categories:"
+msgstr ""

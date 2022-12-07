@@ -1,0 +1,73 @@
+
+---Downloaded files---
+The import files for: Demo 1 were successfully downloaded!
+Initial max execution time = 1200
+Files info:
+Site URL = http://localhost:10034
+Data file = C:\Users\ajesh\Local Sites\drvisionopticals\app\public/wp-content/uploads/2022/12/demo-content-import-file_2022-12-06__19-21-21.xml
+Widget file = C:\Users\ajesh\Local Sites\drvisionopticals\app\public/wp-content/uploads/2022/12/demo-widgets-import-file_2022-12-06__19-21-21.json
+Customizer file = C:\Users\ajesh\Local Sites\drvisionopticals\app\public/wp-content/uploads/2022/12/demo-customizer-import-file_2022-12-06__19-21-21.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Search - No Title - Imported
+Recent Posts - No Title - Imported
+Recent Comments - No Title - Imported
+Archives - No Title - Imported
+Categories - No Title - Imported
+Meta - No Title - Imported
+
+WooCommerce Sidebar : 
+
+Product Search - No Title - Imported
+Cart - Cart - Imported
+Products list - Products - Imported
+Filter Products by Rating - Average rating - Imported
+Filter Products by Price - Filter by price - Imported
+Product Tag Cloud - Product tags - Imported
+Product Categories - Product categories - Imported
+Recently Viewed Products list - Recently Viewed Products - Imported
+Active Product Filters - Active filters - Imported
+Filter Products by Attribute - Filter by - Imported
+Recent Product Reviews - Recent reviews - Imported
+
+Footer Column1 : 
+
+Navigation Menu - Quick Links - Imported
+
+Footer Column2 : 
+
+Products list - Products - Imported
+
+Footer Column3 : 
+
+Custom HTML - No Title - Imported
+Product Tag Cloud - Product tags - Imported
+Navigation Menu - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+

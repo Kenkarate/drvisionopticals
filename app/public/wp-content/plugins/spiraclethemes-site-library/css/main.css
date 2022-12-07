@@ -1,0 +1,127 @@
+
+/* Demo Import */
+
+.ai-confirm-import-content #swal2-content {
+    text-align: left !important;
+    width: 75%;
+    margin: 0 auto;
+    margin-top: 20px;
+    font-size: 14px;
+    line-height: 1.5;
+    font-weight: 400;
+}
+
+.swal2-popup {
+    width: 50rem !important;
+    display: flex;
+}
+
+.swal2-title {
+    font-size: 28px !important;
+    margin: 20px 0 !important;
+}
+
+.ai-confirm-import-content #swal2-content {
+    width: 85% !important;
+}
+
+.swal2-styled.swal2-confirm,
+.swal2-styled.swal2-cancel {
+    font-size: 14px !important;
+    border: 0;
+    border-radius: .25em;
+    background: initial;
+    color: #fff;
+    font-size: 1.0625em;
+    padding: 15px 40px;
+    border-radius: 45px !important;
+}
+
+.swal2-styled.swal2-confirm {
+    background: #45c396 !important;
+}
+
+.swal2-styled.swal2-cancel {
+    background: #ea7070 !important;
+}
+
+
+.swal2-popup #swal2-content p {
+    padding-left: 20px;
+    padding-right: 13px;
+    width: 75%;
+    margin: 0 auto;
+    line-height: 1.8;
+    margin-bottom: 20px !important;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.swal2-toast #swal2-content p {
+     width: 100% !important;
+     margin-bottom: 0 !important;
+}
+
+
+#spiraclethemes-site-library-notice-id p .button {
+	display: table;
+    margin: 0 auto;
+    margin-top: 40px;
+    padding: 15px 25px;
+    border: none;
+}
+
+#spiraclethemes-site-library-notice-id p {
+	text-align: center;
+	font-size: 16px;
+    font-weight: 400;
+}
+
+#spiraclethemes-site-library-notice-id {
+	padding: 70px 250px;
+    background-color: #FF3CAC;
+	background-image: linear-gradient(225deg, #FF3CAC 0%, #784BA0 50%, #2B86C5 100%);
+    color: #fff;
+    border-left: none;
+}
+
+
+#spiraclethemes-site-library-notice-id .notice-dismiss:before {
+    background: 0 0;
+    color: #ffffff;
+    content: "\f153";
+    display: block;
+    font: normal 16px/20px dashicons;
+    speak: never;
+    height: 20px;
+    text-align: center;
+    width: 20px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+
+.rating-div.updated {
+	padding: 70px 250px;
+    background-color: #FF3CAC;
+	background-image: linear-gradient(225deg, #FF3CAC 0%, #784BA0 50%, #2B86C5 100%);
+    color: #fff;
+    border-left: none;
+}
+
+.rating-div.updated a {
+	color: #fff;
+}
+
+.appearance_page_one-click-demo-import #spiraclethemes-site-library-notice-id {
+	display: none !important;
+}
+
+
+@media only screen and (max-width: 767px) {
+
+	#spiraclethemes-site-library-notice-id {
+		padding: 70px 70px;
+	}
+
+}

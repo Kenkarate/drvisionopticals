@@ -1,0 +1,80 @@
+== Changelog ==
+
+v1.2.7
+-- Fixed rating overlapping issue
+-- Changed toggle menu breakdown from 768px to 991px
+-- Other minor bug fixes
+
+v1.2.6
+-- Added new customizer option
+-- Fixed on hover Dropdown close issue
+-- Minor bug fixes
+
+v1.2.5
+-- Browse category section woocommerce independent
+-- removed elementor as recommended plugin
+-- cart page mobile fixed
+
+v1.2.4
+-- Fixed Demo import issue
+-- Bug fixes
+
+v1.2.3
+-- Fixed site description always show issue
+-- Fixed Hover on icons
+-- Added new settings in customizer
+
+v1.2.2
+-- bug fixes
+-- Removed duplicate aside tag from sidebar
+-- Added tooltip on product button hover
+
+v1.2.1
+-- Fix issue page sidebar content
+-- bug fixes
+-- styles fix
+
+v1.2.0
+-- added cart icon in mobile
+-- fixed textfield issue in checkout page
+
+v1.1.0
+-- Search button responsive issue fix
+-- Custom product menu width fix
+
+v1.0.9
+-- Safari browser responsive fix
+-- Archive page columns issue fix
+
+v1.0.8
+-- Checkout page issue fix
+-- Dropdown inside a form styling fix
+-- Cart remove product icon fix inside elementor
+
+v1.0.7
+--Search button border fix
+--Layout Width 1170px product category box width fix
+
+v1.0.6
+--Added sanitization fixes
+--Added Line Awesome icons
+
+v1.0.5
+--Bug fixes
+--Sidebar list item underline css fix
+
+v1.0.4
+--Category page heading alignment fix
+
+v1.0.3
+--Elementor Heading elements spacing fix
+
+v1.0.2
+--CSS fixes
+
+v1.0.1
+--Added Gutenberg Compatibility
+--CSS fixes
+
+v1.0.0
+--initial release

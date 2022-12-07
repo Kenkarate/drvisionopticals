@@ -1,0 +1,54 @@
+
+== Changelog ==
+
+== 1.1.6 ==
+- Bug fixed in MeStore demo
+
+== 1.1.5 ==
+- Added the MeStore demo
+
+== 1.1.4 ==
+- Added the Own Shop Lite demo
+- Minor bug fixes
+
+== 1.1.3 ==
+- Added the Colon Plus demo
+
+== 1.1.2 ==
+- Added the Own Store demo
+
+== 1.1.1 ==
+- Bug Fixes
+
+== 1.1.0 ==
+- Purea magazine demo import fixes
+
+== 1.0.9 ==
+- Bug fixes
+
+== 1.0.8 ==
+- Purea Magazine changed demo added
+
+== 1.0.7 ==
+- Added new theme demos
+
+== 1.0.6 ==
+- Added demo4 for Colon theme
+
+== 1.0.5 ==
+- Bug fixes
+
+== 1.0.4 ==
+- Colon demo import fix
+
+== 1.0.3 ==
+- Add Colon theme demo
+
+== 1.0.2 ==
+- Demo import issue fix in Purea Magazine
+
+== 1.0.1 ==
+- Bug fixes
+
+== 1.0.0 ==
+- Initial release 
