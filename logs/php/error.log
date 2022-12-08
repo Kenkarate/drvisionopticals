@@ -64,3 +64,6 @@ Stack trace:
 [06-Dec-2022 19:36:44 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
 [06-Dec-2022 19:36:44 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
 [06-Dec-2022 19:36:44 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[08-Dec-2022 09:53:38 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[08-Dec-2022 09:53:38 UTC] Cron unschedule event error for hook: woocommerce_cancel_unpaid_orders, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":false,"args":[]}
+[08-Dec-2022 09:53:39 UTC] Cron reschedule event error for hook: wc_admin_process_orders_milestone, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"hourly","args":[],"interval":3600}
